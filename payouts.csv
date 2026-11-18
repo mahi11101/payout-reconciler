@@ -1,0 +1,7 @@
+payout_id,payee,amount,currency,status
+P1001,Contributor A,12500.00,INR,paid
+P1002,Contributor B,8400.004,INR,paid
+P1003,Contributor C,1500.00,INR,paid
+P1004,Contributor D,320.00,USD,failed
+P1006,Contributor F,4100.00,INR,paid
+P1007,Contributor G,2000.00,INR,paid
